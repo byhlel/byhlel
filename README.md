@@ -64,6 +64,7 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [This is a test post](https://dev.to/byhlel/this-is-a-test-post-2fco)
 <!-- BLOG-POST-LIST:END -->
 
 ### :joy: Daily humour dose :
