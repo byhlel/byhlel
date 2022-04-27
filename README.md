@@ -65,3 +65,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### :joy: Daily humour dose :
+![Jokes Card](https://readme-jokes.vercel.app/api)
