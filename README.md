@@ -22,7 +22,7 @@
 
 ### :technologist: About Me :
 
-- :mortar_board:I'm Bilal, 20 years old student at EPITA( SCHOOL OF ENGINEERING & COMPUTER SCIENCE)
+- :mortar_board:I'm Bilal, 22 years old student at EPITA( SCHOOL OF ENGINEERING & COMPUTER SCIENCE)
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
