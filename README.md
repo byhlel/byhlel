@@ -14,12 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-byhlel&style=flat-square&color=blue"  alt="github view"/>
 </div>
 
-<div id="progiule gif" align="center">
-  <img src="https://media4.giphy.com/media/WQtZvXrKa8Vvqg0yFa/giphy.gif?cid=790b761105a4f744475915f4a5eb5b2fa8b812b6d467320c&rid=giphy.gif&ct=g" width="600" height="300" alt="coding image"/>
-</div>
-
----
-
 ### :technologist: About Me :
 
 - :mortar_board:I'm Bilal, 22 years old student at EPITA( SCHOOL OF ENGINEERING & COMPUTER SCIENCE)
@@ -28,7 +22,7 @@
 
 - :seedling: Exploring my way through every kind of programming languages!
 
-- :zap: In my free time, I am developing personal projects ( currently a phone app)
+- :zap: In my free time, I am contributing to open source projects!
 
 - :mailbox:How to reach me: [email](mailto:bilal-rayane.majjad@epita.fr)
 
@@ -84,12 +78,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byhlel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=byhlel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 ---
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This is a test post](https://dev.to/byhlel/this-is-a-test-post-2fco)
+<!--  [This is a test post](https://dev.to/byhlel/this-is-a-test-post-2fco) -->
+Checkout my [blog](https://byhlel.github.io/jekyll-gitbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :joy: Daily humour dose :
