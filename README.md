@@ -76,7 +76,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=byhlel&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byhlel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jade-phi.vercel.app/api/top-langs/?username=byhlel&layout=compact&theme=vision-friendly-dark&langs_count=18)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=byhlel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 ---
