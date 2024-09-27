@@ -74,6 +74,8 @@
 
 ### :fire: My Stats :
 
+[![Github Stats](https://github-readme-stats-jade-phi.vercel.app/api?username=byhlel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=byhlel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-jade-phi.vercel.app/api/top-langs/?username=byhlel&layout=compact&theme=vision-friendly-dark&langs_count=18)](https://github.com/anuraghazra/github-readme-stats)
