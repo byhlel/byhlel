@@ -77,14 +77,14 @@
 [![Github Stats](https://github-readme-stats-jade-phi.vercel.app/api?username=byhlel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=byhlel&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats-jade-phi.vercel.app/api/top-langs/?username=byhlel&hide=jupyter%20notebook&layout=compact&theme=vision-friendly-dark&langs_count=18)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
 ![](https://github-profile-summary-uturehlqx-byhlels-projects.vercel.app/api/cards/profile-details?username=byhlel&theme=radical)
 ![](https://github-profile-summary-uturehlqx-byhlels-projects.vercel.app/api/cards/repos-per-language?username=byhlel&theme=radical)
 ![](https://github-profile-summary-uturehlqx-byhlels-projects.vercel.app/api/cards/most-commit-language?username=byhlel&theme=radical)
 ![](https://github-profile-summary-uturehlqx-byhlels-projects.vercel.app/api/cards/stats?username=byhlel&theme=radical)
 ![](https://github-profile-summary-uturehlqx-byhlels-projects.vercel.app/api/cards/productive-time?username=byhlel&theme=radical&utcOffset=8)
+[![Top Langs](https://github-readme-stats-jade-phi.vercel.app/api/top-langs/?username=byhlel&hide=jupyter%20notebook&layout=compact&theme=vision-friendly-dark&langs_count=18)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=byhlel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 ---
